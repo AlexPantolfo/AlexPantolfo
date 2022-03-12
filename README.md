@@ -19,5 +19,8 @@
 <div> 
   <a href = "mailto:alexpantolfo619@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alex-pantolfo-77ab851a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ 
+  ![snake gif](https://github.com/AlexPantolfo/AlexPantolfo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
